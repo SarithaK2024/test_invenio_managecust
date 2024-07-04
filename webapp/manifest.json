@@ -38,7 +38,7 @@
     "crossNavigation": {
       "inbounds": {
         "Customer-Manage": {
-          "semanticObject": "Customer",
+          "semanticObject": "Customers",
           "action": "Manage",
           "title": "{{flpTitle}}",
           "subTitle": "{{flpSubtitle}}",
